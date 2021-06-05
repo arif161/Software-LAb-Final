@@ -5,6 +5,16 @@ In the search page you will see a search bar and a big button. You can search an
 
 ![search](img/search.png)
 
+For Example If you want to search a  bike. You just need to write bike and click search. Than you will find best bike accourding to your filtering options.
+
+#Bikes
+![search](img/bikes.png)
+
+#Comment
+There is also a comment option where you can comment about the produce. You can comment whetever you want.
+![Comment](img/comment.png)
+
+
 
 
 
