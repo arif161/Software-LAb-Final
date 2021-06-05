@@ -3,7 +3,7 @@
 In the seller dashboard you will find the details information about the product and also find the details information about the seller.
 
 #Product Details 
-Here you can see everything you need to know about the products are written clearly.You can gather details information about the product from here
+Here you can see everything you need to know about the products are written clearly.You can gather details information about the product from here.All the information you will get from here.
 
 ![homepage](img/productdetails.png)
 
